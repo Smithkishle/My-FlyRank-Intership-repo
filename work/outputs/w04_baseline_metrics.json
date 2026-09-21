@@ -1,0 +1,17 @@
+{
+  "notebook": "w04_baseline_score",
+  "n_total_rows": 30000,
+  "n_valid_position": 28795,
+  "n_eligible": 7950,
+  "signal_1_verdict": "CONFIRMED",
+  "signal_1_name": "ctr_varies_by_position_tier",
+  "signal_2_verdict": "MIXED",
+  "signal_2_name": "staleness_vs_declining",
+  "rule_description": "score = (expected_ctr - actual_ctr) * impressions_90d * staleness_bonus",
+  "reason_code": "ctr_below_tier",
+  "action_label": "review_title_meta",
+  "score_max": 70085.5375,
+  "score_median": 234.48874999999998,
+  "staleness_bonus_pct": 40.59119496855346,
+  "leakage_check": "PASSED"
+}
