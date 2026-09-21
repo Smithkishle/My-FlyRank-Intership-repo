@@ -42,7 +42,7 @@ Tick them off as you go; this table is the map of your work:
 |---|---|---|
 | `notebooks/w01_research_question.ipynb` | ML-02 | ☑ |
 | `notebooks/w02_ml_task_framing.ipynb` | ML-03 | ☑ |
-| `notebooks/w03_data_contract.ipynb` | ML-04 | ☐ |
+| `notebooks/w03_data_contract.ipynb` | ML-04 | ☑ |
 | `notebooks/w03_feature_leakage_check.ipynb` | ML-05 | ☐ |
 | `notebooks/w04_signal_audit.ipynb` | ML-06 | ☐ |
 | `notebooks/w04_baseline_score.ipynb` | ML-07 | ☐ |
