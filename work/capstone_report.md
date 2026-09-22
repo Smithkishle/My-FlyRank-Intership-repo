@@ -1,6 +1,6 @@
 # Capstone Report — CTR / Engagement Opportunity Scoring
 
-- **Author:** FlyRank ML Research Intern
+- **Author:** Sami Ullah
 - **Lane:** CTR / Engagement Opportunity Scoring
 - **Repo:** `https://github.com/Smithkishle/My-FlyRank-Intership-repo`
 - **Date:** September 2026
